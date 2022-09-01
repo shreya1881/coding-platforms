@@ -4,4 +4,5 @@ For placements, practicing coding is very important. There are a lot of coding p
 2. GFG (Geeks for Geeks)- I preferably, love the interface of GFG. It's so user freindly and easy to navigate through. It has partwise questions on each topic and according to all the difficulty levels. From, School, Basic, Easy, Medium to Hard, there are questions from all the difficulty levels under every topic. <br />
 3. Codechef - In this platform, you wont be given any code snippet already. You have to write the entire code on your own. The level of questions are much higher than Hackerrank and a little bit higher that GFG. <br />
 4. Leetcode - This is the hardest platform I have encountered till now. Here, optimizing your code to the best possible solution also plays a very important role. You have to keep in mind the complexities while you code on this platform. <br />
-5. Codewars
+5. Codeforces
+6. Codewars
